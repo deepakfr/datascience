@@ -1,3 +1,6 @@
 bonjour monde
 
 learn git at the earliest
+
+
+learn git asap

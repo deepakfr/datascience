@@ -1,1 +1,3 @@
 bonjour monde
+
+learn git at the earliest

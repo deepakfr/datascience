@@ -1,1 +1,2 @@
 bye
+delete the file
